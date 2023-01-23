@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @J377
-- 👀 I’m interested in Blockchain Development.
+- 👀 I’m interested in Software and Blockchain Development.
 - 🌱 I’m currently learning all about that.
 
 <!---
